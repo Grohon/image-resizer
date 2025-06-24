@@ -1,4 +1,4 @@
-Here’s a complete and polished `README.md` for your open-source project [Image Resizer Web App](https://imageresizer21.netlify.app/), including your attribution and clear explanations:
+Thanks for pointing that out! Here's a **corrected and cleaned-up version** of your `README.md` — properly formatted, with the extra backtick removed and section breaks cleanly aligned:
 
 ---
 
@@ -36,7 +36,7 @@ A simple and efficient **Image Resizer Web App** built using **React** and **Typ
 
 ![Screenshot of the Image Resizer App](./screenshot.png)
 
-> *(Include a screenshot in the project root as `screenshot.png`)*
+> *(Make sure a file named `screenshot.png` exists in the project root.)*
 
 ---
 
@@ -45,16 +45,17 @@ A simple and efficient **Image Resizer Web App** built using **React** and **Typ
 - React
 - TypeScript
 - HTML5 File API
-- CSS Modules (or Tailwind, if applicable)
+- CSS Modules or Tailwind CSS (if applicable)
 
 ---
 
 ## 🧑‍💻 Author
 
-Created with ❤️ by [Hasibul Hossain Santo Sheikh](https://www.linkedin.com/in/hasibshekh/)
+Created with ❤️ by **Hasibul Hossain Santo Sheikh**
 
 - 🌐 Website: [NewsN360.com](https://newsn360.com/)
 - 💼 GitHub: [@sheikhhasib](https://github.com/sheikhhasib)
+- 🔗 LinkedIn: [linkedin.com/in/hasibshekh](https://www.linkedin.com/in/hasibshekh/)
 - 📧 Email: `sheikhhasib.dev@gmail.com`
 
 ---
@@ -68,22 +69,18 @@ npm install
 npm run dev
 ````
 
-> Visit `http://localhost:3000` to use the app locally.
+Then open your browser and visit: `http://localhost:3000`
 
 ---
 
 ## 🆓 License
 
-This project is open-source under the [MIT License](./LICENSE).
+This project is licensed under the [MIT License](./LICENSE).
 
 ---
 
 ## 🙌 Contributing
 
-Contributions are welcome! Feel free to:
+Contributions, issues, and feature requests are welcome!
+Please feel free to fork the repository and submit a pull request.
 
-* Report bugs
-* Suggest features
-* Submit pull requests
-
-Please open an issue first before working on any major changes.
