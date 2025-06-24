@@ -398,7 +398,7 @@ export default function ImageResizer() {
                 <Button onClick={resizeImage} disabled={isProcessing} className="flex-1">
                   {isProcessing ? "Processing..." : "Resize Image"}
                 </Button>
-                <Button variant="outline" onClick={resetImage}>
+                <Button variant="outline" onClick={resetImage} className="bg-destructive text-white">
                   <Trash2 className="h-4 w-4" />
                 </Button>
               </div>
