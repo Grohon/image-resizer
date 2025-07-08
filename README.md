@@ -74,6 +74,12 @@ This project is licensed under the [MIT License](./LICENSE).
 
 ---
 
+## 🔒 Privacy
+
+For details on how your data and images are handled, please see our [Privacy Policy](./PRIVACY.md).
+
+---
+
 ## 🙌 Contributing
 
 Contributions, issues, and feature requests are welcome!
