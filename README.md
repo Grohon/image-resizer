@@ -1,8 +1,3 @@
-Thanks for pointing that out! Here's a **corrected and cleaned-up version** of your `README.md` — properly formatted, with the extra backtick removed and section breaks cleanly aligned:
-
----
-
-````markdown
 # 🖼️ Image Resizer Web App
 
 A simple and efficient **Image Resizer Web App** built using **React** and **TypeScript**. This tool lets you resize images without uploading them to a server – all processing is done locally in the browser, ensuring speed and privacy.
@@ -34,9 +29,9 @@ A simple and efficient **Image Resizer Web App** built using **React** and **Typ
 
 ## 📸 Screenshot
 
-![Screenshot of the Image Resizer App](./screenshot.png)
-
-> *(Make sure a file named `screenshot.png` exists in the project root.)*
+<img src="https://res.cloudinary.com/dd1qlozhf/image/upload/v1751980537/Image-Resizer_jkybor.png">   
+<img src="https://res.cloudinary.com/dd1qlozhf/image/upload/v1751980726/Image-Resizer-2_fpywjp.png">   
+<img src="https://res.cloudinary.com/dd1qlozhf/image/upload/v1751980840/Image-Resizer-3_uz3xep.png">   
 
 ---
 
@@ -45,7 +40,7 @@ A simple and efficient **Image Resizer Web App** built using **React** and **Typ
 - React
 - TypeScript
 - HTML5 File API
-- CSS Modules or Tailwind CSS (if applicable)
+- CSS Modules or Tailwind CSS
 
 ---
 
